@@ -1,3 +1,7 @@
+---
+typora-root-url: assets
+---
+
 ### Hi there 👋
 
 <!--
@@ -31,11 +35,20 @@ Here are some ideas to get you started:
 
 
 
+![屏幕截图 2023-09-28 160238](/屏幕截图 2023-09-28 160238.png)
 
 
 
+Here are some ideas to get you started:
 
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 
 

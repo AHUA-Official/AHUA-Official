@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ##### 快来一起玩蛋仔派对吧!!!!
 
-
+![屏幕截图 2023-09-28 160238](https://github.com/AHUA-Official/AHUA-Official/raw/main/屏幕截图%202023-09-28%20160238.png)
 
 ![屏幕截图 2023-09-28 160238](/屏幕截图 2023-09-28 160238.png)
 

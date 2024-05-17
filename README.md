@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ![屏幕截图 2023-09-28 160238](https://images.pexels.com/photos/19096629/pexels-photo-19096629.jpeg)
 
-![屏幕截图 2023-09-28 160238](/屏幕截图 2023-09-28 160238.png)
+![屏幕截图 2023-09-28 160238](https://github.com/AHUA-Official/AHUA-Official/blob/main/assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-09-28%20160238.png)
 
 
 

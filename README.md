@@ -49,6 +49,6 @@ Here are some ideas to get you started:
   
   
 
-![屏幕截图 2023-09-28 160238](https://github.com/AHUA-Official/AHUA-Official/blob/main/assets/Camera_XHS_17211114234681040g00830oobbbi83g1040rh.jpg)
+
 
 ![屏幕截图 2023-09-28 160238](https://github.com/AHUA-Official/AHUA-Official/blob/main/assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-09-28%20160238.png)

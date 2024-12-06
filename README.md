@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  
  	•	介绍 ： 基于AI大模型构建的在线课程学习平台  
 
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHUA-Official)](https://github.com/AHUA-Official/github-readme-stats)
   
 
 

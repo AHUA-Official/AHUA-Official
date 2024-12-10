@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ####想学的的 Language & Tool
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg"  width="40" height="40"  />
 </div>
 <!--
 #### Visitor count

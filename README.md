@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHUA-Official&theme=radical)](https://github.com/AHUA-Official/github-readme-stats)
   
 
+![Moe Counter](https://count.getloli.com/get/@AHUA-Official)
 ### Quotation
 <!--
 <details>
@@ -88,7 +89,7 @@ Sometimes government export control regulations and trade sanctions can constrai
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHUA-Official&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AHUA-Official&theme=transparent)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=AHUA-Official&theme=transparent)](https://git.io/streak-stats) -->
 
 <!--<a href="https://gitroll.io/profile/up0e9TqeuU8RIZdY0PYx07zrDEXi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/up0e9TqeuU8RIZdY0PYx07zrDEXi2" alt="GitRoll Profile Badge"/></a>
 -->

@@ -90,9 +90,9 @@ Sometimes government export control regulations and trade sanctions can constrai
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AHUA-Official&theme=transparent)](https://git.io/streak-stats)
 
-<a href="https://gitroll.io/profile/up0e9TqeuU8RIZdY0PYx07zrDEXi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/up0e9TqeuU8RIZdY0PYx07zrDEXi2" alt="GitRoll Profile Badge"/></a>
-
-![Moe Counter](https://count.getloli.com/get/@SunsetMkt)
+<!--<a href="https://gitroll.io/profile/up0e9TqeuU8RIZdY0PYx07zrDEXi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/up0e9TqeuU8RIZdY0PYx07zrDEXi2" alt="GitRoll Profile Badge"/></a>
+-->
+![Moe Counter](https://count.getloli.com/get/@AHUA-Official)
 
 ![](https://hit.yhype.me/github/profile?user_id=26019675)
 
@@ -104,29 +104,6 @@ Sometimes government export control regulations and trade sanctions can constrai
 <summary>Click to expand</summary>
 
 _Here is a list of numerous technologies I have come across, but it does not imply any level of knowledge, proficiency, or availability._
-
-[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,androidstudio,apple,arch,arduino,atom,au,autocad,aws,azure,bash,bitbucket,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,debian,discord,bots,django,docker,dotnet,fastapi,fediverse,figma,flask,gcp,git,github,githubactions,gitlab,gmail,go,graphql,heroku,html,idea,ai,instagram,ipfs,java,js,jenkins,jquery,kali,kubernetes,latex,linkedin,linux,lua,md,mastodon,mint,mongodb,neovim,netlify,nginx,nodejs,notion,npm,obsidian,ps,php,planetscale,pnpm,powershell,pr,pycharm,py,pytorch,redhat,redis,regex,replit,sqlite,stackoverflow,selenium,svg,tensorflow,twitter,ts,ubuntu,unity,unreal,vercel,vim,visualstudio,vscode,vscodium,vue,webpack,windows,wordpress,workers&perline=15)](https://skillicons.dev)
-
-</details>
-
-### Thanks to
-
-<details>
-<summary>Click to expand</summary>
-
-- [Bitwarden](https://bitwarden.com/) - The password manager trusted by millions.
-- [Cloudflare](https://www.cloudflare.com/) - Connect, protect and build everywhere.
-- [Cloudcone](https://app.cloudcone.com/?ref=11355) - An average and [cost-effective](https://hello.cloudcone.com/hashtag-2024-sale-yearly-vps/) virtual private server solution.
-- [Codeium](https://codeium.com/) - Excellent & free AI code completion solution.
-- [Free Software Foundation](https://www.fsf.org/) & [GNU Operating System](https://www.gnu.org/home.en.html)
-- [JetBrains Open Source Development License](https://jb.gg/OpenSourceSupport) - Special thanks to JetBrains for their support to the open-source community.
-- [Microsoft](https://www.microsoft.com/)
-- [Mozilla](https://www.mozilla.org/)
-- [NameSilo](https://www.namesilo.com/domain/search-domains?rid=d0b7e93ym) - Trusted domain name registrar.
-- [Tailscale](https://tailscale.com/) - Excellent VPN service for secure networks.
-- [1Password for Open Source](https://github.com/1Password/for-open-source) - Special thanks to 1Password for their support to open-source community.
-
-</details>
 
 #### 天天用的Language & Tool
 
@@ -207,6 +184,33 @@ _Here is a list of numerous technologies I have come across, but it does not imp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original-wordmark.svg"   width="40" height="40" />
           
 </div>
+<!--<--
+[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,androidstudio,apple,arch,arduino,atom,au,autocad,aws,azure,bash,bitbucket,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,debian,discord,bots,django,docker,dotnet,fastapi,fediverse,figma,flask,gcp,git,github,githubactions,gitlab,gmail,go,graphql,heroku,html,idea,ai,instagram,ipfs,java,js,jenkins,jquery,kali,kubernetes,latex,linkedin,linux,lua,md,mastodon,mint,mongodb,neovim,netlify,nginx,nodejs,notion,npm,obsidian,ps,php,planetscale,pnpm,powershell,pr,pycharm,py,pytorch,redhat,redis,regex,replit,sqlite,stackoverflow,selenium,svg,tensorflow,twitter,ts,ubuntu,unity,unreal,vercel,vim,visualstudio,vscode,vscodium,vue,webpack,windows,wordpress,workers&perline=15)](https://skillicons.dev)  -->
+
+
+</details>
+
+
+### Thanks to
+
+<details>
+<summary>Click to expand</summary>
+
+- [Bitwarden](https://bitwarden.com/) - The password manager trusted by millions.
+- [Cloudflare](https://www.cloudflare.com/) - Connect, protect and build everywhere.
+- [Cloudcone](https://app.cloudcone.com/?ref=11355) - An average and [cost-effective](https://hello.cloudcone.com/hashtag-2024-sale-yearly-vps/) virtual private server solution.
+- [Codeium](https://codeium.com/) - Excellent & free AI code completion solution.
+- [Free Software Foundation](https://www.fsf.org/) & [GNU Operating System](https://www.gnu.org/home.en.html)
+- [JetBrains Open Source Development License](https://jb.gg/OpenSourceSupport) - Special thanks to JetBrains for their support to the open-source community.
+- [Microsoft](https://www.microsoft.com/)
+- [Mozilla](https://www.mozilla.org/)
+- [NameSilo](https://www.namesilo.com/domain/search-domains?rid=d0b7e93ym) - Trusted domain name registrar.
+- [Tailscale](https://tailscale.com/) - Excellent VPN service for secure networks.
+- [1Password for Open Source](https://github.com/1Password/for-open-source) - Special thanks to 1Password for their support to open-source community.
+
+</details>
+
+
 
 
 ![count](https://profile-counter.glitch.me/lxl66566/count.svg) -->

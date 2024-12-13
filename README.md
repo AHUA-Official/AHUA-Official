@@ -196,11 +196,15 @@ _Here is a list of numerous technologies I have come across, but it does not imp
 
 <details>
 <summary>Click to expand</summary>
--[UESTC](https://www.uestc.edu.cn)  - 电子科技大学是我的学校 谢谢我这么菜但我的学校还没有放弃我  也没有把我开除人籍 
--[Sichuan](www.baidu.com)    - 四川  我是四川人  四川人基本都很好看 性格也好 脾气也好  也贤惠的  我就是这样的 人
--[Anime Fan](www.baidu.com)  我是二次元  喜欢看的动漫有 魔卡少女樱  my little pony  双城之战 等
--[Single man](www.baidu.com)  我是一个单身汉   漂亮可爱的妹妹和我cpdd谢谢
+- [UESTC](https://www.uestc.edu.cn)  - 
+- []()    - 
+- [](www.baidu.com)  
+- [](www.baidu.com)  
 
+- [UESTC](https://www.uestc.edu.c) -电子科技大学是我的学校 谢谢我这么菜但我的学校还没有放弃我  也没有把我开除人籍 
+- [Sichuan](https://www.baidu.com) -四川  我是四川人  四川人基本都很好看 性格也好 脾气也好  也贤惠的  我就是这样的 人
+- [Anime Fan](https://www.baidu.com) -我是二次元  喜欢看的动漫有 魔卡少女樱  my little pony  双城之战 等
+- [Single man](https://www.baidu.com) -我是一个单身汉   漂亮可爱的妹妹请和我cpdd谢谢  我写脚本给你买好吃的
 - [Bitwarden](https://bitwarden.com/) - The password manager trusted by millions.
 - [Cloudflare](https://www.cloudflare.com/) - Connect, protect and build everywhere.
 - [Cloudcone](https://app.cloudcone.com/?ref=11355) - An average and [cost-effective](https://hello.cloudcone.com/hashtag-2024-sale-yearly-vps/) virtual private server solution.

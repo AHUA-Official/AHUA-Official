@@ -195,11 +195,6 @@ _Here is a list of numerous technologies I have come across, but it does not imp
 ### Thanks to
 
 <details>
-<summary>Click to expand</summary>
-- [UESTC](https://www.uestc.edu.cn)  - 
-- []()    - 
-- [](www.baidu.com)  
-- [](www.baidu.com)  
 
 - [UESTC](https://www.uestc.edu.c) -电子科技大学是我的学校 谢谢我这么菜但我的学校还没有放弃我  也没有把我开除人籍 
 - [Sichuan](https://www.baidu.com) -四川  我是四川人  四川人基本都很好看 性格也好 脾气也好  也贤惠的  我就是这样的 人

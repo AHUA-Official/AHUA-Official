@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 
 ### Contribution Calendar
-https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid-snake-dark.svg
-https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid-snake.svg
+<!--https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid-snake-dark.svg
+https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid-snake.svg -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AHUA-Official/AHUA-Official/refs/heads/snk/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AHUA-Official/AHUA-Official/refs/heads/snk/github-contribution-grid-snake.svg">

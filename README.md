@@ -60,7 +60,24 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHUA-Official&theme=radical)](https://github.com/AHUA-Official/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHUA-Official&theme=radical)](https://github.com/AHUA-Official/github-readme-stats)
+
+
+
+      
+<img align="center" src="https://cardivo.vercel.app/api?name=Aiinne&description=Hi,%20i%27m%20aine%20and%20i%27m%20just%20a%20newbie%20programmer%0ANice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/aiinne&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ainee_bot&github=Aiinne&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20Aiinne"/>
+
+------
+
+<p align='center'>
+  <a href="https://wa.me/8801645461453"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
+  <a href="https://facebook.com/ainneboot"><img height="30" src="https://telegra.ph/file/0aa5e722cc8ef66a7b3d2.jpg"</a>
+  <a href="https://mez.ink/anemio"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"</a>
+  <a href="https://instagram.com/ainee_bot"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+</p>
+
+</br>
   
+
 
 ![Moe Counter](https://count.getloli.com/get/@AHUA-Official)
 ### Quotation

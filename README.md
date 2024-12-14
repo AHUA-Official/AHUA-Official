@@ -1,4 +1,4 @@
-  Hi there 👋 <img src="https://github.com/laixintao/laixintao/blob/master/assets/wave.gif" width="29px">
+·	  Hi there 👋 <img src="https://github.com/laixintao/laixintao/blob/master/assets/wave.gif" width="29px">
 <!--
 **AHUA-Official/AHUA-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -58,13 +58,13 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
  
  	•	介绍 ： 基于AI大模型构建的在线课程学习平台  
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHUA-Official&theme=radical)](https://github.com/AHUA-Official/github-readme-stats)
+  [![AHUA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHUA-Official&theme=radical)](https://github.com/AHUA-Official/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHUA-Official&theme=radical)](https://github.com/AHUA-Official/github-readme-stats)
 
 
 
       
-<img align="center" src="https://cardivo.vercel.app/api?name=Aiinne&description=Hi,%20i%27m%20aine%20and%20i%27m%20just%20a%20newbie%20programmer%0ANice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/aiinne&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ainee_bot&github=Aiinne&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20Aiinne"/>
+<img align="center" src="https://cardivo.vercel.app/api?name=AHUA&description=你好，我是电子科技大学软件工程专业的一名学生，对云计算，基础设施建设，性能benchmark方面有一定兴趣&image=https://avatars.githubusercontent.com/aiinne&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ainee_bot&github=Aiinne&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20Aiinne"/>
 
 ------
 

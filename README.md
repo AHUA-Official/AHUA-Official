@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ### Contribution Calendar
 <!--https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid-snake-dark.svg
 https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid-snake.svg -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AHUA-Official/AHUA-Official/refs/heads/snk/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AHUA-Official/AHUA-Official/refs/heads/snk/github-contribution-grid-snake.svg">
@@ -101,10 +102,12 @@ Sometimes government export control regulations and trade sanctions can constrai
 
 </details>
   -->
+
 ### Statistics
 
 <details>
 <summary>Click to expand</summary>
+
 [![SunsetMkt's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHUA-Official&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHUA-Official&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)

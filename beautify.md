@@ -4,7 +4,7 @@
 
 - 项目地址： https://github.com/Platane/snk
 
-![image-20241214230254971](./assets/image-20241214230254971.png)
+![image-20241214230254971](https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241214230254971.png)
 
 在你的github主页提供一个会吃掉你的贡献的贪吃蛇的日历！
 
@@ -17,7 +17,7 @@
 
 - 项目地址： https://github.com/anuraghazra/github-readme-stats
 
-![image-20241214231446772](./assets/image-20241214231446772.png)
+![image-20241214231446772](https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241214231446772.png)
 
 在你的github主页显示提交状态和使用语言卡片！
 
@@ -37,7 +37,7 @@
 
 - 项目地址：https://github.com/satyawikananda/cardivo
 
-  ![image-20241214232734357](./assets/image-20241214232734357.png)
+  ![image-20241214232734357](https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241214232734357.png)
 
   提供你的个人卡片！支持好看的动画和背景设置，使用TS和Vercel的severless函数服务提供svg格式的个人卡片
 
@@ -57,7 +57,7 @@
 
 - 项目地址 https://github.com/journey-ad/Moe-Counter
 
-  ![image-20241214235146665](./assets/image-20241214235146665.png)
+  ![image-20241214235146665](https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241214235146665.png)
 
 -  多种风格可选的萌萌计数器！
 
@@ -69,7 +69,7 @@
 
 - 项目地址 https://github.com/devicons/devicon
 
-   ![image-20241215000635299](./assets/image-20241215000635299.png)
+   ![image-20241215000635299](https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241215000635299.png)
 
   如图，你也想通过<img>标签应用展示你接触过的工具吗  使用devicon在jsdelivr上通过CDN分发的语言/工具的svg图片！
 
@@ -82,7 +82,7 @@
 
     
 
-  - ![image-20241215002259898](./assets/image-20241215002259898.png)
+  - ![image-20241215002259898](https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241215002259898.png)
 
 
 
@@ -94,7 +94,7 @@
 
 使用Pind来展示你很好看很用心的开源项目谢谢    如果一个项目的小星星很多  我会很羡慕  很嫉妒   
 
-![image-20241215011526095](./assets/image-20241215011526095.png)
+![image-20241215011526095](https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241215011526095.png)
 
 
 
@@ -116,7 +116,7 @@ https://github.com/DIYgod   好看
 
 https://github.com/sun0225SUN   好看
 
-关于更多的我觉得好看的个人主页   看 
+关于更多的我觉得好看的个人主页   看 https://github.com/AHUA-Official/AHUA-Official/blob/main/copyReadmeOffering.md
 
 
 
@@ -150,7 +150,7 @@ https://zhuanlan.zhihu.com/p/454597068
 
 嗯  美化主页的方法还有很多  不过我写到这个地方已经想和朋友一起出门吃烧烤烤了 ，那就先这样吧  拜拜！
 
-![image-20241215011928299](./assets/image-20241215011928299.png)
+![image-20241215011928299](https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241215011928299.png)
 
 
 

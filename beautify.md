@@ -1,4 +1,7 @@
 # 美化github主页的教程
+简单介绍美化Github主页的小工具  
+关于如何在github主页上创建repo 展示你的主页  见 https://bianyujie.cn/Beautify-your-GitHub-personal-homepage
+
 
 #### 贪吃蛇日历
 
@@ -152,7 +155,7 @@ https://zhuanlan.zhihu.com/p/454597068
 
 ![image-20241215011928299](https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241215011928299.png)
 
-
+人生相遇不容易，点个关注我爱你~
 
 
 

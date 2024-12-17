@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>&#x7f8e;&#x5316;github&#x4e3b;&#x9875;&#x7684;&#x6559;&#x7a0b;</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <h1 id="美化github主页的教程">美化github主页的教程</h1>
+<p>简单介绍美化Github主页的小工具<br>
+关于如何在github主页上创建repo 展示你的主页  见 <a href="https://bianyujie.cn/Beautify-your-GitHub-personal-homepage">https://bianyujie.cn/Beautify-your-GitHub-personal-homepage</a></p>
+<h4 id="贪吃蛇日历">贪吃蛇日历</h4>
+<ul>
+<li>项目地址： <a href="https://github.com/Platane/snk">https://github.com/Platane/snk</a></li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241214230254971.png" alt="image-20241214230254971"></p>
+<p>在你的github主页提供一个会吃掉你的贡献的贪吃蛇的日历！</p>
+<ul>
+<li>
+<p>原理： 通过github actions  在你的codespace运行代码  每天根据你的提交记录生成对应的svg 在主页README.md应用就好了</p>
+</li>
+<li>
+<p>使用  看官方文档<a href="https://github.com/Platane/snk%E5%B0%B1OK%E4%BA%86">https://github.com/Platane/snk就OK了</a>  两步走 1是配置actions触发生成svg成功， 2是正确引用svg图片</p>
+</li>
+<li>
+<p>毕竟没有人会拒绝显示一条贪吃蛇吧</p>
+</li>
+</ul>
+<h4 id="github-stats">Github Stats</h4>
+<ul>
+<li>项目地址： <a href="https://github.com/anuraghazra/github-readme-stats">https://github.com/anuraghazra/github-readme-stats</a></li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241214231446772.png" alt="image-20241214231446772"></p>
+<p>在你的github主页显示提交状态和使用语言卡片！</p>
+<ul>
+<li>
+<p>原理： 通过该团队提供的部署在Vercel上的查询API返回你的github状态卡片</p>
+</li>
+<li>
+<p>使用  直接使用<code>![]()</code>  或者<code>&lt;img&gt;</code>标签即可  参数和主题定制见官方文档即可,列子如下</p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md</a></p>
+</li>
+</ul>
+<pre><code>  [![AHUA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHUA-Official&amp;theme=radical)](https://github.com/AHUA-Official/github-readme-stats)
+</code></pre>
+<ul>
+<li>这个用的人也不少</li>
+</ul>
+<h4 id="个人名片-cardivo">个人名片 Cardivo！</h4>
+<ul>
+<li>
+<p>项目地址：<a href="https://github.com/satyawikananda/cardivo">https://github.com/satyawikananda/cardivo</a></p>
+<p><img src="https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241214232734357.png" alt="image-20241214232734357"></p>
+<p>提供你的个人卡片！支持好看的动画和背景设置，使用TS和Vercel的severless函数服务提供svg格式的个人卡片</p>
+<ul>
+<li>
+<p>原理： 同上，vercel上的severless函数</p>
+</li>
+<li>
+<p>使用： 同上 <code>![]()</code>  或者<code>&lt;img&gt;</code>标签    参数见<a href="https://github.com/satyawikananda/cardivo">https://github.com/satyawikananda/cardivo</a></p>
+<pre><code>![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda&amp;description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&amp;image=https://avatars.githubusercontent.com/u/33148052?v=4&amp;backgroundColor=%23ecf0f1&amp;instagram=satyawikananda&amp;linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&amp;github=satyawikananda&amp;twitter=satya_wikananda&amp;pattern=leaf&amp;colorPattern=%23eaeaea)
+</code></pre>
+<p><img src="https://cardivo.vercel.app/api?name=Satya%20Wikananda&amp;description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&amp;image=https://avatars.githubusercontent.com/u/33148052?v=4&amp;backgroundColor=%23ecf0f1&amp;instagram=satyawikananda&amp;linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&amp;github=satyawikananda&amp;twitter=satya_wikananda&amp;pattern=leaf&amp;colorPattern=%23eaeaea" alt="Satya wikananda's card name"></p>
+</li>
+</ul>
+</li>
+<li>
+<p>这个效果挺好看的  我个人感觉</p>
+</li>
+</ul>
+<h4 id="萝莉小恶魔">萝莉小恶魔</h4>
+<ul>
+<li>
+<p>项目地址 <a href="https://github.com/journey-ad/Moe-Counter">https://github.com/journey-ad/Moe-Counter</a></p>
+<p><img src="https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241214235146665.png" alt="image-20241214235146665"></p>
+</li>
+<li>
+<p>多种风格可选的萌萌计数器！</p>
+</li>
+<li>
+<p>很多时候我们想要计数别人看见我们的website的次数  使用这个可以使用可爱女孩的风格 LOVE~！</p>
+</li>
+<li>
+<p>使用： 同上 <code>![]()</code>  或者<code>&lt;img&gt;</code>标签    参数见<a href="https://count.getloli.com/">https://count.getloli.com/</a></p>
+</li>
+</ul>
+<h4 id="语言图标库">语言图标库</h4>
+<ul>
+<li>
+<p>项目地址 <a href="https://github.com/devicons/devicon">https://github.com/devicons/devicon</a></p>
+<p><img src="https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241215000635299.png" alt="image-20241215000635299"></p>
+<p>如图，你也想通过<img>标签应用展示你接触过的工具吗  使用devicon在jsdelivr上通过CDN分发的语言/工具的svg图片！</p>
+<ul>
+<li>
+<p>使用 ： <a href="https://devicon.dev/">https://devicon.dev/</a> 项目官网地址，选中你想要展示的工具   如图  左侧会展示font和svg的引用链接！</p>
+<pre><code>&lt;img src=&quot;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg&quot; /&gt;
+&lt;img src=”https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg“/&gt;
+</code></pre>
+</li>
+<li>
+<p><img src="https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241215002259898.png" alt="image-20241215002259898"></p>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="pined">Pined</h4>
+<p>使用Pind来展示你很好看很用心的开源项目谢谢    如果一个项目的小星星很多  我会很羡慕  很嫉妒</p>
+<p><img src="https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241215011526095.png" alt="image-20241215011526095"></p>
+<h4 id="好看的主页展示模板">好看的主页展示模板</h4>
+<p><a href="https://github.com/kautukkundan/Awesome-Profile-README-templates">https://github.com/kautukkundan/Awesome-Profile-README-templates</a>   提供超级丰富的主页模板的Readme类型  不过很遗憾的是  该项目已经蛮久不更新的了  所以我们没有办法抄到最新的模板了</p>
+<p>直接github抄你喜欢的人的readme使用的工具  我就是这样偷的  一般那些很多粉丝的人我感觉他们的主页都很好看</p>
+<p>如果没有喜欢的人我这里也有简单列举一些</p>
+<p><a href="https://github.com/AHUA-Official">https://github.com/AHUA-Official</a>   我    抄我谢谢</p>
+<p><a href="https://github.com/Peter-JXL">https://github.com/Peter-JXL</a>   这个家伙的也好看</p>
+<p><a href="https://github.com/foru17">https://github.com/foru17</a>     好看</p>
+<p><a href="https://github.com/DIYgod">https://github.com/DIYgod</a>   好看</p>
+<p><a href="https://github.com/sun0225SUN">https://github.com/sun0225SUN</a>   好看</p>
+<p>关于更多的我觉得好看的个人主页   看 <a href="https://github.com/AHUA-Official/AHUA-Official/blob/main/copyReadmeOffering.md">https://github.com/AHUA-Official/AHUA-Official/blob/main/copyReadmeOffering.md</a></p>
+<h4 id="工具集合">工具集合</h4>
+<p><a href="https://github.com/matiassingers/awesome-readme">https://github.com/matiassingers/awesome-readme</a>   提供丰富的用于个人主页美化的工具集合</p>
+<h4 id="教程参考">教程参考</h4>
+<p><a href="https://www.peterjxl.com/Git/GitHub-Profile-Beautify/#%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A1%B5">https://www.peterjxl.com/Git/GitHub-Profile-Beautify/#默认主页</a></p>
+<p><a href="https://bianyujie.cn/Beautify-your-GitHub-personal-homepage">https://bianyujie.cn/Beautify-your-GitHub-personal-homepage</a></p>
+<p><a href="https://blog.csdn.net/a2360051431/article/details/130945944">https://blog.csdn.net/a2360051431/article/details/130945944</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/454597068">https://zhuanlan.zhihu.com/p/454597068</a></p>
+<p>嗯  美化主页的方法还有很多  不过我写到这个地方已经想和朋友一起出门吃烧烤烤了 ，那就先这样吧  拜拜！</p>
+<p><img src="https://raw.githubusercontent.com/AHUA-Official/TAEveryday/main/assets/image-20241215011928299.png" alt="image-20241215011928299"></p>
+<p>人生相遇不容易，点个关注我爱你~</p>
+
+            
+            
+        </body>
+        </html>

@@ -1,4 +1,4 @@
-# 	  Hi there 👋 <img src="https://github.com/laixintao/laixintao/blob/master/assets/wave.gif" width="29px">
+# Hi there 👋 `<img src="https://github.com/laixintao/laixintao/blob/master/assets/wave.gif" width="29px">`
 
 <!--
 **AHUA-Official/AHUA-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on AHUA-Official GitHub profile.
@@ -38,6 +38,31 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 *generated with [Platane/snk](https://github.com/Platane/snk)*
 
+## 📖 简短的人生经历
+
+| 时间段    | 阶段        | 描述                               |
+| --------- | ----------- | ---------------------------------- |
+| 2004-2022 | 📚 学生时代 | 普通的小镇做题家，求学路上不断努力 |
+| 2022-2026 | 🎓 大学生涯 | 在电子科技大学攻读软件工程专业     |
+
+## 📬 联系方式
+
+| 平台          | 信息               | 链接/账号                                                 |
+| ------------- | ------------------ | --------------------------------------------------------- |
+| 🐙 GitHub     | 开源项目与代码仓库 | [AHUA-Official](https://github.com/AHUA-Official)            |
+| 📧 Email      | 邮箱联系           | [cmkallj@163.com](mailto:cmkallj@163.com)                    |
+| 🌐 个人博客   | 技术分享与思考     | [www.furinadefontaine.top](https://www.furinadefontaine.top) |
+| 📱 微信公众号 | CLoudOPs一朵小花   | 关注获取最新动态                                          |
+| 📝 语雀       | 知识库与文档       | [语雀空间](https://www.yuque.com/ahuaofficial)               |
+| 📷 小红书     | 生活分享           | 爱吃小石头n_n                                             |
+
+## 💼 实习经历
+
+| 公司                             | 时间                   | 岗位             | 技术栈/平台                   |
+| -------------------------------- | ---------------------- | ---------------- | ----------------------------- |
+| [云轴科技](https://www.zstack.com/) | 2024年5月 - 2024年11月 | 测试开发实习生   | 虚拟化平台（KVM）、测试自动化 |
+| [博世](https://www.bosch.com.cn/)   | 2025年1月 - 2025年8月  | 云原生开发实习生 | 边缘计算平台、云原生技术栈    |
+
 ## 🚀 项目经历
 
 ### **FurinaBench -- 性能基准测试工具集**
@@ -68,23 +93,19 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 [![AHUA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHUA-Official&theme=radical)](https://github.com/AHUA-Official/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHUA-Official&theme=radical)](https://github.com/AHUA-Official/github-readme-stats)
 
-</div>
+## 🎨 个人展示
 
 <div align="center">
+
 <img src="https://cardivo.vercel.app/api?name=AHUA&description=你好，我是电子科技大学软件工程专业的一名学生，对云计算，基础设施建设，性能benchmark，边缘计算，LoT,可观测性，云原生方面有一定兴趣&image=https://avatars.githubusercontent.com/AHUA-Official&usqp=CAU&backgroundColor=%23ecf0f1&github=AHUA-Official&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20AHUA"/>
-</div>
-
----
-
-<div align="center">
 
 ![Moe Counter](https://count.getloli.com/get/@AHUA-Official)
+
+</div>
 
 ### Quotation
 
@@ -137,10 +158,10 @@ Sometimes government export control regulations and trade sanctions can constrai
 
 </details>
 
-## 💻 技术栈
+## 💻 技术栈详情
 
 <details>
-<summary>点击查看技术栈详情</summary>
+<summary>点击查看我的技术栈</summary>
 
 *以下是我接触过的众多技术列表，但这并不意味着任何级别的知识、熟练程度或可用性。*
 
@@ -160,7 +181,7 @@ Sometimes government export control regulations and trade sanctions can constrai
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original-wordmark.svg" width="40" height="40" />     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original-wordmark.svg" width="40" height="40" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="40" height="40" />
@@ -169,7 +190,7 @@ Sometimes government export control regulations and trade sanctions can constrai
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original-wordmark.svg" width="40" height="40" />
 </div>
 
-### 工作实习及项目中使用过的 Language & Tool
+### 项目中使用过的语言和工具
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
@@ -181,7 +202,7 @@ Sometimes government export control regulations and trade sanctions can constrai
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" />     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="40" height="40" />
@@ -190,10 +211,10 @@ Sometimes government export control regulations and trade sanctions can constrai
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40" />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40" />    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="40" height="40" />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="40" height="40" />    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" />
@@ -230,23 +251,33 @@ Sometimes government export control regulations and trade sanctions can constrai
 ## 🙏 致谢
 
 <details>
-<summary>点击查看致谢列表</summary>
+<summary>点击查看致谢名单</summary>
 
 - [UESTC](https://www.uestc.edu.cn) - 电子科技大学是我的学校，谢谢我这么菜但我的学校还没有放弃我，也没有把我开除人籍
 - [Sichuan](https://www.baidu.com) - 四川，我是四川人，四川人基本都很好看，性格也好，脾气也好，也贤惠的，我就是这样的人
 - [Anime Fan](https://www.baidu.com) - 我是二次元，喜欢看的动漫有魔卡少女樱、my little pony、双城之战等
-- [Single man](https://www.baidu.com) - 我是一个单身汉，漂亮可爱的妹妹请和我cpdd谢谢，我写脚本给你买好吃的
 - [Bitwarden](https://bitwarden.com/) - The password manager trusted by millions.
 - [Cloudflare](https://www.cloudflare.com/) - Connect, protect and build everywhere.
-- [Cloudcone](https://app.cloudcone.com/?ref=11355) - An average and [cost-effective](https://hello.cloudcone.com/hashtag-2024-sale-yearly-vps/) virtual private server solution.
 - [Codeium](https://codeium.com/) - Excellent & free AI code completion solution.
 - [Free Software Foundation](https://www.fsf.org/) & [GNU Operating System](https://www.gnu.org/home.en.html)
-- [JetBrains Open Source Development License](https://jb.gg/OpenSourceSupport) - Special thanks to JetBrains for their support to the open-source community.
-- [Microsoft](https://www.microsoft.com/)
-- [Mozilla](https://www.mozilla.org/)
 - [NameSilo](https://www.namesilo.com/domain/search-domains?rid=d0b7e93ym) - Trusted domain name registrar.
-- [Tailscale](https://tailscale.com/) - Excellent VPN service for secure networks.
-- [1Password for Open Source](https://github.com/1Password/for-open-source) - Special thanks to 1Password for their support to open-source community.
+- [博世](https://www.bosch.com.cn/) - 提供实习平台，帮助我提升专业技能，让我实习了一下，学了技术还挣了一点钱。
+- [学校的校友们](https://www.uestc.edu.cn/) - 学长学姐们的悉心指导与帮助让我学习和成长很多。
+- [华为](https://www.huawei.com/cn/) - 优秀的科技公司，值得学习和敬佩，我可爱华为了。
+- [云轴科技](https://www.zstack.com/) - 提供实习机会，让我获得宝贵的实践经验，让我实习了一下，学了技术还挣了一点钱。
+- [美团](https://www.meituan.com/) - 便民服务平台，提升生活品质，我可以在美团点拼好饭，剩了不少钱。
+- [抖音](https://www.douyin.com/) - 短视频娱乐平台，丰富业余生活，感恩抖音和番茄小说
+- [腾讯](https://www.tencent.com/) - 社交通讯工具的提供者，连接人与人，感恩微信，
+- [百度](https://www.baidu.com/) - 搜索引擎服务商，曾提供AI计算资源，以前百度可以学生白嫖GPU
+- [京东](https://www.jd.com/) - 电商购物平台，提供便捷的购物体验  ，京东买东西很方便，京东云的服务器也划算
+- [阿里云](https://www.aliyun.com/) - 阿里云学生优惠可以白嫖服务器
+- [哔哩哔哩](https://www.bilibili.com/) - 我可以一边学技术一边看番
+- [语雀](https://www.yuque.com/) - 语雀很好用
+- [GitHub](https://github.com/) - 我很喜欢GitHub
+- [爸爸妈妈](https://www.uestc.edu.cn/) - 谢谢我的爸爸妈妈把我教成这样的大帅哥
+- [AI工具集](https://openai.com/) - OpenAI、Claude、Gemini、豆包、DeepSeek、Kimi，没你们我写不出文档
+- [小红书](https://www.xiaohongshu.com/) - 我很喜欢小红书
+- [12306](https://www.12306.cn/) - 让我过年可以回家
 
 </details>
 

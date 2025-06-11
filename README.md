@@ -38,13 +38,6 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 *generated with [Platane/snk](https://github.com/Platane/snk)*
 
-## 📖 简短的人生经历
-
-| 时间段    | 阶段        | 描述                               |
-| --------- | ----------- | ---------------------------------- |
-| 2004-2022 | 📚 学生时代 | 普通的小镇做题家，求学路上不断努力 |
-| 2022-2026 | 🎓 大学生涯 | 在电子科技大学攻读软件工程专业     |
-
 ## 📬 联系方式
 
 | 平台          | 信息               | 链接/账号                                                 |
@@ -58,10 +51,10 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 ## 💼 实习经历
 
-| 公司                             | 时间                   | 岗位             | 技术栈/平台                   |
-| -------------------------------- | ---------------------- | ---------------- | ----------------------------- |
-| [云轴科技](https://www.zstack.com/) | 2024年5月 - 2024年11月 | 测试开发实习生   | 虚拟化平台（KVM）、测试自动化 |
-| [博世](https://www.bosch.com.cn/)   | 2025年1月 - 2025年8月  | 云原生开发实习生 | 边缘计算平台、云原生技术栈    |
+| 公司                            | 时间                   | 岗位             | 技术栈/平台                   |
+| ------------------------------- | ---------------------- | ---------------- | ----------------------------- |
+| [云轴科技](https://www.zstack.io/) | 2024年5月 - 2024年11月 | 测试开发实习生   | 虚拟化平台（KVM）、测试自动化 |
+| [博世](https://www.bosch.com.cn/)  | 2025年1月 - 2025年8月  | 云原生开发实习生 | 边缘计算平台、云原生技术栈    |
 
 ## 🚀 项目经历
 
@@ -211,10 +204,10 @@ Sometimes government export control regulations and trade sanctions can constrai
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="40" height="40" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="40" height="40" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" />
@@ -264,7 +257,7 @@ Sometimes government export control regulations and trade sanctions can constrai
 - [博世](https://www.bosch.com.cn/) - 提供实习平台，帮助我提升专业技能，让我实习了一下，学了技术还挣了一点钱。
 - [学校的校友们](https://www.uestc.edu.cn/) - 学长学姐们的悉心指导与帮助让我学习和成长很多。
 - [华为](https://www.huawei.com/cn/) - 优秀的科技公司，值得学习和敬佩，我可爱华为了。
-- [云轴科技](https://www.zstack.com/) - 提供实习机会，让我获得宝贵的实践经验，让我实习了一下，学了技术还挣了一点钱。
+- [云轴科技](https://www.zstack.io/) - 提供实习机会，让我获得宝贵的实践经验，让我实习了一下，学了技术还挣了一点钱。
 - [美团](https://www.meituan.com/) - 便民服务平台，提升生活品质，我可以在美团点拼好饭，剩了不少钱。
 - [抖音](https://www.douyin.com/) - 短视频娱乐平台，丰富业余生活，感恩抖音和番茄小说
 - [腾讯](https://www.tencent.com/) - 社交通讯工具的提供者，连接人与人，感恩微信，
@@ -281,6 +274,12 @@ Sometimes government export control regulations and trade sanctions can constrai
 
 </details>
 
-![count](https://profile-counter.glitch.me/lxl66566/count.svg) -->
+## 📖 简短的人生经历
+
+| 时间段                                                           | 阶段        | 描述                           |
+| ---------------------------------------------------------------- | ----------- | ------------------------------ |
+| 2004-2022                                                        | 📚 学生时代 | 普通的小镇做题家               |
+| 2022-2026                                                        | 🎓 大学生涯 | 在电子科技大学攻读软件工程专业 |
+| ![count](https://profile-counter.glitch.me/lxl66566/count.svg) --> |             |                                |
 
 ![屏幕截图 2023-09-28 160238](https://github.com/AHUA-Official/AHUA-Official/blob/main/assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-09-28%20160238.png)

@@ -1,4 +1,4 @@
-# Hi there 👋 `<img src="https://github.com/laixintao/laixintao/blob/master/assets/wave.gif" width="29px">`
+# 	  Hi there 👋 <img src="https://github.com/laixintao/laixintao/blob/master/assets/wave.gif" width="29px">
 
 <!--
 **AHUA-Official/AHUA-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on AHUA-Official GitHub profile.

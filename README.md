@@ -10,15 +10,15 @@
 - ⚡ Fun fact: I am super handsome...
   -->
 
-  你好！ 我是AHUA 一名软件工程的学生（2026年毕业） 目前正在寻找一份实习机会  同时也喜欢在github上关注并分享一些开源项目和文章
+  你好！ 我是AHUA 一名软件工程的学生（2026年毕业） 目前正在寻找一份工作机会  同时也喜欢在github上关注并分享一些开源项目和文章
 
   专业技能
 
     •计算机网络: 熟悉 OSI 七层网络模型，了解 HTTP、TCP、IP 等常见网络协议，掌握基础网络配置；了解桥接、VLAN、VXLAN、Bond、NAT、DNS、DHCP、ARP、SSH、Ping、SMTP、FRP 等网络技术原理。
- 	•数据库相关: 熟悉 MySQL 索引原理与优化方法，事务隔离级别及 ACID 实现机制，掌握共享锁和排他锁；了解 SQLite、PostgreSQL 和 Neo4j 的基本使用和特点。
+ 	•数据库相关: 熟悉 MySQL 索引原理与优化方法，事务隔离级别及 ACID 实现机制，掌握共享锁和排他锁。
  	•操作系统:   熟悉操作系统基本原理，包括进程调度、内存管理、文件系统、I/O管理等核心概念；了解虚拟内存、页面置换算法、死锁处理等机制。
  	•Linux:     熟练使用 Linux 常用命令，了解 Linux 的启动流程、文件架构、进程调度、用户管理、虚拟内存和文件系统原理；熟悉shell脚本编写，具备计算、磁盘、网络等的基础监控能力及日志分析能力。
- 	•Go:        掌握 Go 语言基础语法、并发编程（goroutine、channel）、包管理等核心特性；了解 Go 的垃圾回收机制、调度器原理；具备使用 Go 开发微服务和命令行工具的经验。
+ 	•Go:        掌握 Go 语言基础语法、并发编程（goroutine、channel）、包管理等核心特性；了解 Go 的垃圾回收机制、调度器原理；具备使用 Go 开发微服务的经验。
  	•Java:      掌握 Java 的集合、注解、反射及 Stream 流式编程等，精读 HashMap 源码，理解其扩容机制与实现原理。
  	•Web框架:   熟悉 SpringBoot、MyBatisPlus、Maven 等主流 Java 开发框架，了解其核心机制如 IoC 和 AOP；熟悉 Flask 框架，具备基于 RESTful 风格的 API 开发经验。
 	•云原生:    熟悉 Docker 容器化技术，了解 Kubernetes 容器编排、Helm 包管理、微服务架构设计模式；掌握 Prometheus + Grafana 监控体系，了解 OpenTelemetry+Jaeger的链路追踪。
@@ -48,6 +48,7 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 | 📱 微信公众号 | CLoudOPs一朵小花   | 关注获取最新动态                                          |
 | 📝 语雀       | 知识库与文档       | [语雀空间](https://www.yuque.com/ahuaofficial)               |
 | 📷 小红书     | 生活分享           | 爱吃小石头n_n                                             |
+| QQ           |  	聊天						| 3309719563  |
 
 ## 💼 实习经历
 
@@ -60,7 +61,6 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 ### **FurinaBench -- 性能基准测试工具集**
 
-**时间：** *2024年12月 - 2025年3月*
 
 - 提供一系列benchmark工具，包含CPU、内存、网络、存储等方面的工具集合
 - 目前覆盖单体ALL IN ONE架构下的x86平台Redhat系列系统

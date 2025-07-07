@@ -14,7 +14,7 @@
 
   专业技能
 
-    	•计算机网络: 熟悉 OSI 七层网络模型，了解 HTTP、TCP、IP 等常见网络协议，掌握基础网络配置；了解桥接、VLAN、VXLAN、Bond、NAT、DNS、DHCP、ARP、SSH、Ping、SMTP、FRP 等网络技术原理。
+    •计算机网络: 熟悉 OSI 七层网络模型，了解 HTTP、TCP、IP 等常见网络协议，掌握基础网络配置；了解桥接、VLAN、VXLAN、Bond、NAT、DNS、DHCP、ARP、SSH、Ping、SMTP、FRP 等网络技术原理。
  	•数据库相关: 熟悉 MySQL 索引原理与优化方法，事务隔离级别及 ACID 实现机制，掌握共享锁和排他锁。
  	•操作系统:   熟悉操作系统基本原理，包括进程调度、内存管理、文件系统、I/O管理等核心概念；了解虚拟内存、页面置换算法、死锁处理等机制。
  	•Linux:     熟练使用 Linux 常用命令，了解 Linux 的启动流程、文件架构、进程调度、用户管理、虚拟内存和文件系统原理；熟悉shell脚本编写，具备计算、磁盘、网络等的基础监控能力及日志分析能力。
@@ -246,15 +246,15 @@ Sometimes government export control regulations and trade sanctions can constrai
 <summary>点击查看致谢名单</summary>
 
 - [UESTC](https://www.uestc.edu.cn) - 电子科技大学是我的学校，谢谢我这么菜但我的学校还没有放弃我，也没有把我开除人籍
-- [Sichuan](https://www.baidu.com) - 四川，我是四川人，四川人基本都很好看，性格也好，脾气也好，也贤惠的，我就是这样的人
-- [Anime Fan](https://www.baidu.com) - 我是二次元，喜欢看的动漫有魔卡少女樱、my little pony、双城之战等
+- [Sichuan](https://www.baidu.com) - 哎哟，川菜太好吃了，来外地了可想吃老家的鸡脚
+- [Anime Fan](https://www.baidu.com) - 我喜欢看的动漫有魔卡少女樱、my little pony、双城之战等
 - [Bitwarden](https://bitwarden.com/) - The password manager trusted by millions.
 - [Cloudflare](https://www.cloudflare.com/) - Connect, protect and build everywhere.
 - [Codeium](https://codeium.com/) - Excellent & free AI code completion solution.
 - [Free Software Foundation](https://www.fsf.org/) & [GNU Operating System](https://www.gnu.org/home.en.html)
 - [NameSilo](https://www.namesilo.com/domain/search-domains?rid=d0b7e93ym) - Trusted domain name registrar.
 - [语雀](https://www.yuque.com/) - 语雀很好用
-- [GitHub](https://github.com/) - 我很喜欢GitHub
+- [GitHub](https://github.com/) - GitHub上面有很多高质量的项目来着
 - [AI工具集](https://openai.com/) - OpenAI、Claude、Gemini、DeepSeek、Kimi，没你们我写不出文档
 
 </details>

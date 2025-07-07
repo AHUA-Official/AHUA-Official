@@ -14,7 +14,7 @@
 
   专业技能
 
-    •计算机网络: 熟悉 OSI 七层网络模型，了解 HTTP、TCP、IP 等常见网络协议，掌握基础网络配置；了解桥接、VLAN、VXLAN、Bond、NAT、DNS、DHCP、ARP、SSH、Ping、SMTP、FRP 等网络技术原理。
+    	•计算机网络: 熟悉 OSI 七层网络模型，了解 HTTP、TCP、IP 等常见网络协议，掌握基础网络配置；了解桥接、VLAN、VXLAN、Bond、NAT、DNS、DHCP、ARP、SSH、Ping、SMTP、FRP 等网络技术原理。
  	•数据库相关: 熟悉 MySQL 索引原理与优化方法，事务隔离级别及 ACID 实现机制，掌握共享锁和排他锁。
  	•操作系统:   熟悉操作系统基本原理，包括进程调度、内存管理、文件系统、I/O管理等核心概念；了解虚拟内存、页面置换算法、死锁处理等机制。
  	•Linux:     熟练使用 Linux 常用命令，了解 Linux 的启动流程、文件架构、进程调度、用户管理、虚拟内存和文件系统原理；熟悉shell脚本编写，具备计算、磁盘、网络等的基础监控能力及日志分析能力。
@@ -47,7 +47,6 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 | 🌐 个人博客   | 技术分享与思考     | [www.furinadefontaine.top](https://www.furinadefontaine.top) |
 | 📱 微信公众号 | CLoudOPs一朵小花   | 关注获取最新动态                                          |
 | 📝 语雀       | 知识库与文档       | [语雀空间](https://www.yuque.com/ahuaofficial)               |
-| 📷 小红书     | 生活分享           | 爱吃小石头n_n                                             |
 | QQ           |  	聊天						| 3309719563  |
 
 ## 💼 实习经历
@@ -78,7 +77,7 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 ### **UESTCResume -- 电子科技大学简历LaTeX模板**
 
-**项目类型：** *开源项目 ⭐18 (持续增长中)*
+**项目类型：** *LaTeX模板 ⭐18 *
 
 - LaTeX制作的仿照超级简历的简历模板，推荐在Overleaf上使用
 - 专门为电子科技大学学生找实习设计的简历模板
@@ -254,23 +253,9 @@ Sometimes government export control regulations and trade sanctions can constrai
 - [Codeium](https://codeium.com/) - Excellent & free AI code completion solution.
 - [Free Software Foundation](https://www.fsf.org/) & [GNU Operating System](https://www.gnu.org/home.en.html)
 - [NameSilo](https://www.namesilo.com/domain/search-domains?rid=d0b7e93ym) - Trusted domain name registrar.
-- [博世](https://www.bosch.com.cn/) - 提供实习平台，帮助我提升专业技能，让我实习了一下，学了技术还挣了一点钱。
-- [学校的校友们](https://www.uestc.edu.cn/) - 学长学姐们的悉心指导与帮助让我学习和成长很多。
-- [华为](https://www.huawei.com/cn/) - 优秀的科技公司，值得学习和敬佩，我可爱华为了。
-- [云轴科技](https://www.zstack.io/) - 提供实习机会，让我获得宝贵的实践经验，让我实习了一下，学了技术还挣了一点钱。
-- [美团](https://www.meituan.com/) - 便民服务平台，提升生活品质，我可以在美团点拼好饭，剩了不少钱。
-- [抖音](https://www.douyin.com/) - 短视频娱乐平台，丰富业余生活，感恩抖音和番茄小说
-- [腾讯](https://www.tencent.com/) - 社交通讯工具的提供者，连接人与人，感恩微信，
-- [百度](https://www.baidu.com/) - 搜索引擎服务商，曾提供AI计算资源，以前百度可以学生白嫖GPU
-- [京东](https://www.jd.com/) - 电商购物平台，提供便捷的购物体验  ，京东买东西很方便，京东云的服务器也划算
-- [阿里云](https://www.aliyun.com/) - 阿里云学生优惠可以白嫖服务器
-- [哔哩哔哩](https://www.bilibili.com/) - 我可以一边学技术一边看番
 - [语雀](https://www.yuque.com/) - 语雀很好用
 - [GitHub](https://github.com/) - 我很喜欢GitHub
-- [爸爸妈妈](https://www.uestc.edu.cn/) - 谢谢我的爸爸妈妈把我教成这样的大帅哥
-- [AI工具集](https://openai.com/) - OpenAI、Claude、Gemini、豆包、DeepSeek、Kimi，没你们我写不出文档
-- [小红书](https://www.xiaohongshu.com/) - 我很喜欢小红书
-- [12306](https://www.12306.cn/) - 让我过年可以回家
+- [AI工具集](https://openai.com/) - OpenAI、Claude、Gemini、DeepSeek、Kimi，没你们我写不出文档
 
 </details>
 
@@ -279,7 +264,7 @@ Sometimes government export control regulations and trade sanctions can constrai
 | 时间段                                                           | 阶段        | 描述                           |
 | ---------------------------------------------------------------- | ----------- | ------------------------------ |
 | 2004-2022                                                        | 📚 学生时代 | 普通的小镇做题家               |
-| 2022-2026                                                        | 🎓 大学生涯 | 在电子科技大学攻读软件工程专业 |
+| 2022-2026                                                        | 🎓 大学生涯 | 在电子科技大学读软件工程       |
 | ![count](https://profile-counter.glitch.me/lxl66566/count.svg) --> |             |                                |
 
 ![屏幕截图 2023-09-28 160238](https://github.com/AHUA-Official/AHUA-Official/blob/main/assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-09-28%20160238.png)

@@ -1,29 +1,25 @@
 # Hi there 👋 <img src="https://github.com/laixintao/laixintao/blob/master/assets/wave.gif" width="29px">
 
+> 📅 最近更新：2026-10
+
 <!--
 **AHUA-Official/AHUA-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on AHUA-Official GitHub profile.
-- 🔭 I'm currently working on UESTC as a studnet which will be gratueded in 2026 ...
-- 🌱 I'm currently learning CNCF ...
+- 🔭 I'm currently working in storage, focusing on object storage and related storage technologies...
+- 🌱 I'm currently learning storage systems and cloud-native infrastructure ...
 - 👯 I'm looking to collaborate on something fun ...
 - 🤔 I'm looking for help with ...  
 - 💬 Ask me about Linux, Docker, k8s, go, shell ...
 - ⚡ Fun fact: I am super handsome...
   -->
 
-  你好！ 我是AHUA 一名软件工程的学生（2026年毕业) 平时喜欢在github上关注并分享一些开源项目和文章
-
+  你好！ 我是AHUA 软件工程专业，目前在做存储
   专业技能
 
-    •计算机网络: 熟悉 OSI 七层网络模型，了解 HTTP、TCP、IP 等常见网络协议，掌握基础网络配置；了解桥接、VLAN、VXLAN、Bond、NAT、DNS、DHCP、ARP、SSH、Ping、SMTP、FRP 等网络技术原理。
- 	•数据库相关: 熟悉 MySQL 索引原理与优化方法，事务隔离级别及 ACID 实现机制，掌握共享锁和排他锁。
- 	•操作系统:   熟悉操作系统基本原理，包括进程调度、内存管理、文件系统、I/O管理等核心概念；了解虚拟内存、页面置换算法、死锁处理等机制。
- 	•Linux:     熟练使用 Linux 常用命令，了解 Linux 的启动流程、文件架构、进程调度、用户管理、虚拟内存和文件系统原理；熟悉shell脚本编写，具备计算、磁盘、网络等的基础监控能力及日志分析能力。
- 	•Go:        掌握 Go 语言基础语法、并发编程（goroutine、channel）、包管理等核心特性；了解 Go 的垃圾回收机制、调度器原理；具备使用 Go 开发微服务的经验。
- 	•Java:      掌握 Java 的集合、注解、反射及 Stream 流式编程等，精读 HashMap 源码，理解其扩容机制与实现原理。
- 	•Web框架:   熟悉 SpringBoot、MyBatisPlus、Maven 等主流 Java 开发框架，了解其核心机制如 IoC 和 AOP；熟悉 Flask 框架，具备基于 RESTful 风格的 API 开发经验。
-	•云原生:    熟悉 Docker 容器化技术，了解 Kubernetes 容器编排、Helm 包管理、微服务架构设计模式；掌握 Prometheus + Grafana 监控体系，了解 OpenTelemetry+Jaeger的链路追踪。
- 	•开发工具:   熟悉 Git 工作流，熟练使用 VSCode、JetBrains 系列工具、Vim、Make 等开发工具；熟悉 Feishu、DingTalk、Confluence、Jira、GitLab 等团队协作工具。
- 	•虚拟化:    熟悉 QEMU 和 Libvirt 的基础使用，具备私有云平台使用经验，熟悉快照原理，了解 NFS、SMB、Minio、Ceph、Raw、QCOW2 等存储技术的基础原理和应用场景。
+    •存储:      目前关注对象存储及相关存储技术，主要使用 Go 进行开发。
+    •Linux:     熟练使用 Linux 常用命令，了解 Linux 的启动流程、进程调度、用户管理、虚拟内存和文件系统原理。
+    •计算机网络: 熟悉 OSI 七层网络模型，了解 HTTP、TCP、IP 等常见网络协议，掌握基础网络配置；了解桥接、VLAN、VXLAN、Bond、NAT、DNS、DHCP、ARP 等网络技术原理。
+    •Go:        掌握 Go 语言基础语法、并发编程（goroutine、channel）、包管理等核心特性；了解 Go 的垃圾回收机制、调度器原理；具备使用 Go 开发微服务的经验。
+    •云原生:    熟悉 Docker 容器化技术，了解 Kubernetes 容器编排、Helm 包管理、微服务架构设计模式；掌握 Prometheus + Grafana 监控体系，了解 OpenTelemetry链路追踪。
 
 ### Contribution Calendar
 
@@ -58,23 +54,6 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 ## 🚀 项目经历
 
-### **FurinaBench -- 性能基准测试工具集**
-
-
-- 提供一系列benchmark工具，包含CPU、内存、网络、存储等方面的工具集合
-- 目前覆盖单体ALL IN ONE架构下的x86平台Redhat系列系统
-- 提供对应的markdown文档，包括安装使用教程以及数据收集使用方法
-- **技术栈：** Shell、Python、Linux、性能测试工具
-
-> 💡 *如果您对这个项目感兴趣，欢迎通过issue或邮件联系我：cmkallj@163.com*
-
-### **edukg -- 基于大模型的在线课程学习平台**
-
-**角色：** *后端+设计开发*
-
-- 基于AI大模型构建的在线课程学习平台，提供智能化的学习体验和个性化推荐
-- **技术栈：** Java、Spring Boot、MySQL、Redis、Neo4j、Docker、Shell、Minio、Linux、Prometheus、Grafana
-
 ### **UESTCResume -- 电子科技大学简历LaTeX模板**
 
 **项目类型：** *LaTeX模板 ⭐18 *
@@ -93,7 +72,7 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 <div align="center">
 
-<img src="https://cardivo.vercel.app/api?name=AHUA&description=你好，我是电子科技大学软件工程专业的一名学生，对云计算，基础设施建设，性能benchmark，边缘计算，LoT,可观测性，云原生方面有一定兴趣&image=https://avatars.githubusercontent.com/AHUA-Official&usqp=CAU&backgroundColor=%23ecf0f1&github=AHUA-Official&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20AHUA"/>
+<img src="https://cardivo.vercel.app/api?name=AHUA&description=你好，我是AHUA，目前从事存储方向，关注对象存储、云计算、性能benchmark、可观测性和云原生&image=https://avatars.githubusercontent.com/AHUA-Official&usqp=CAU&backgroundColor=%23ecf0f1&github=AHUA-Official&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20AHUA"/>
 
 ![Moe Counter](https://count.getloli.com/get/@AHUA-Official)
 
@@ -265,6 +244,7 @@ Sometimes government export control regulations and trade sanctions can constrai
 | ---------------------------------------------------------------- | ----------- | ------------------------------ |
 | 2004-2022                                                        | 📚 学生时代 | 普通的小镇做题家               |
 | 2022-2026                                                        | 🎓 大学生涯 | 在电子科技大学读软件工程       |
+| 2026-至今                                                      | 💼 工作     | 存储方向（对象存储、Go） |
 | ![count](https://profile-counter.glitch.me/lxl66566/count.svg) --> |             |                                |
 
 ![屏幕截图 2023-09-28 160238](https://github.com/AHUA-Official/AHUA-Official/blob/main/assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-09-28%20160238.png)
